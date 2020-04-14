@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-  Typescript's challengue from Rocketseat 11.0 - Fase 01
+  Typescript's challengue from Rocketseat 11.0 - Fase 02
 </h4>
 
 <p align="center">
